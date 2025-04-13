@@ -1,5 +1,5 @@
-# socketio-chatapp
-This repo is contain the socketio web chat application
+# Think live
+This repo is contain the think live web chat application
 
 ## To run this web app
 git clone <url> <br>
